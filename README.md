@@ -1,7 +1,7 @@
 ## ⚕️ Farmácia Drogaria Higashi
 Bem-vindo ao repositório do projeto Drogaria Higashi, uma aplicação web interativa voltada para a gestão e simulação de um sistema de drogaria, incluindo controle de fornecedores, produtos e atendimento.
 
-Você pode acessar a versão ao vivo do projeto aqui:<a href="https://luuhxd.github.io/Drogaria-Higashi/"> Drogaria Higashi</a>
+Você pode acessar a versão ao vivo do projeto aqui:<a href="https://vitoria-camargo1109.github.io/Drogaria-Higashi/"> Drogaria Higashi</a>
 
 ## ✨ Funcionalidades
 
